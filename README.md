@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nguyenn.dev@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **The patent for the fire hydrant was lost in a fire**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
