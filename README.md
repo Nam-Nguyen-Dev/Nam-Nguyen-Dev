@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nam</h1>
-<h3 align="center">A passionate frontend developer from Houston, TX</h3>
+<h3 align="center">A passionate full-stack developer from Houston, TX</h3>
 
 - 🔭 I’m currently working on [My Portfolio](namnguyendev.netlify.app)
 
-- 🌱 I’m currently learning **JavaScript with 100Devs**
+- 🌱 I’m currently learning **Datastructures and algorithms with 100Devs**
 
 - 👯 I’m looking to collaborate on [My Portfolio](namnguyendev.netlify.app)
 
